@@ -2,6 +2,4 @@
 E Saiba tudo sobre as marmitas Fit
 
 
-<a href="url_da_pagina">
-     <button class="btn btn-primary"></button>
-</a>
+<button><a href="#" url="lista_laboratorial.php"><img src="admin/imagens/botao_retornar.gif" border="0" /></a></button>
