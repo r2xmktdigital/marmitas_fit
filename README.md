@@ -57,3 +57,5 @@ background-color:#9f9f9f;
     <center><a target="_blank" href="https://sistemaplano14.com.br/"><img class="cell" src="image.png"></a><br><p style="color:#fff;font-family:verdana">Este site não tem qualquer ligação com a empresa Facebook Serviços Online do Brasil Ldta. e demais marcas citadas nos artigos,
 
  apenas dispõe de conteúdo informativo de utilidade pública em benefício de seus visitantes. </p></center></div></div>
+  </body>
+</html>
